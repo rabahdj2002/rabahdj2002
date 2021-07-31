@@ -1,6 +1,6 @@
 ## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/rabahdj2002/rabahdj2002/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My Name Is Rabah Djebbes I am a python software developer aiming towards the stars, i hope that i can share my journey to achieving my goals with you.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
