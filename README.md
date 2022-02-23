@@ -1,5 +1,5 @@
 <div id="top"></div>
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/rabahdjebbes/]
+[![LinkedIn][linkedin-shield]][linkedin_url]
 
 
 
