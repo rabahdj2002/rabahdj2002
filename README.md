@@ -9,12 +9,12 @@
     <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo-e1588009010920.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Rabah Djebbes</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Python/Django Developer
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://www.linkedin.com/in/rabahdjebbes/"><strong>Go To Linkedin »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
