@@ -1,5 +1,4 @@
 <div id="top"></div>
-[![LinkedIn][linkedin-shield]][linkedin_url]
 
 
 
@@ -7,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo-e1588009010920.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
