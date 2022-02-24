@@ -1,9 +1,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/rabahdjebbes/">Linkedin</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://rabahdjebbes6.pythonanywhere.com/">Portfolio</a>
  </p>
 
 
