@@ -1,6 +1,10 @@
-<div id="top">
-  <a>Linkedin</a>
-</div>
+<p align="center">
+    <a href="https://www.linkedin.com/in/rabahdjebbes/">Linkedin</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+ </p>
 
 
 
