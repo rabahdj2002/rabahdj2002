@@ -32,6 +32,13 @@ My name is Rabah Djebbes And I am a Python/Django developer, I have almost 4 yea
 - DevOps and Build Automation with Python.
 - Introduction to Data Science in Python.
 
+## Linkedin Badges :
+- Python.
+- Django.
+- Git.
+- Agile Methodologies.
+- Html
+
 ## My Projects :
 I have worked on a lot of projects like:
 - My Portfolio <a href="https://rabahdjebbes6.pythonanywhere.com/">Here</a>
