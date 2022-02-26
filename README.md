@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/rabahdjebbes/">Linkedin</a>
     ·
-    <a href="https://rabahdjebbes6.pythonanywhere.com/">Portfolio</a>
+    <a href="http://rabahdjebbes.me/">Portfolio</a>
  </p>
 
 
@@ -41,7 +41,7 @@ My name is Rabah Djebbes And I am a Python/Django developer, I have almost 4 yea
 
 ## My Projects :
 I have worked on a lot of projects like:
-- My Portfolio <a href="https://rabahdjebbes6.pythonanywhere.com/">Here</a>
+- My Portfolio <a href="http://rabahdjebbes.me/">Here</a>
 - Creativa Academy <a href="https://creativa-academy.com/">Here</a>
 - More later on ...
 
