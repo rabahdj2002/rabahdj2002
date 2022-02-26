@@ -35,6 +35,9 @@ My name is Rabah Djebbes And I am a Python/Django developer, I have almost 4 yea
 ## Linkedin Badges :
 - Python.
 - Django.
+- html.
+- css.
+- Front End Development.
 - Git.
 - Agile Methodologies.
 - Html
@@ -69,5 +72,5 @@ Rabahwork@gmail.com
 ```
 #### Portfolio : 
 ```sh
-https://rabahdjebbes6.pythonanywhere.com
+http://rabahdjebbes.me
 ```
