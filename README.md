@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="PhotoRoom-20220317_145737.png" alt="Logo" width="80" height="80">
+  <img src="PhotoRoom-20220317_145737.png" style="border-radius: 50%;" alt="Logo" width="100px" height="100px">
   <h3 align="center">Rabah Djebbes</h3>
 
   <p align="center">
