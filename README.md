@@ -39,9 +39,9 @@ AWARDS AND CERTIFICATION
 
 ## WORK EXPERIENCE :
 I have worked on a lot of projects like:
-- My Portfolio <a href="http://rabahdjebbes.me/">Here</a>
-- Creativa Academy <a href="https://creativa-academy.com/">Here</a>
-- StudyRoom <a href="https://studyroom.djebbesrabah.repl.co/">Here</a>
+- My Portfolio <a href="http://rabahdjebbes.me/" target="_balnk">Here</a>
+- Creativa Academy <a href="https://creativa-academy.com/" target="_balnk">Here</a>
+- StudyRoom <a href="https://studyroom.djebbesrabah.repl.co/" target="_balnk">Here</a>
 <br> And much more...
 
 ## SPOKEN LANGUAGES :
