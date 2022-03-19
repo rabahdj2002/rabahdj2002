@@ -22,44 +22,41 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About Me :
-My name is Rabah Djebbes And I am a Python/Django developer, I have almost 4 years of experience in relation to Python/Django Back-end Development.
+## ABOUT ME
+As a Python/Django Backend Developer, I have 3 years of experience in working on writing and testing code, debugging programs, and integrating applications with third-party web services as well as creating, maintaining, testing, and debugging the entire back end.
 
-## My Certificates :
-- C2 English Speaking Level.
-- Developing Applications with SQL, Databases, and Django.
-- Crash Course on Python.
-- DevOps and Build Automation with Python.
-- Introduction to Data Science in Python.
+Contributing to my team's successes and quickly grasping new concepts and technologies are two of my biggest strengths.
 
-## Linkedin Badges :
-- Python.
-- Django.
-- Selenium.
-- Front End Development.
-- Git/Github.
-- Agile Methodologies.
+I excel at critical thinking and problem solving while being eager to learn new stuff.
 
-## My Projects :
+## AWARDS AND CERTIFICATION :
+AWARDS AND CERTIFICATION
+- Developing Applications with SQL, Databases, and Django     -       IBM
+- DevOps and Build Automation with Python     -       Learn Quest
+- Crash Course on Python      -       Google
+- Introduction to Data Science in Python      -       University of Michigan
+- Certificate of Language Ability     -       Emmersion
+
+## WORK EXPERIENCE :
 I have worked on a lot of projects like:
 - My Portfolio <a href="http://rabahdjebbes.me/">Here</a>
 - Creativa Academy <a href="https://creativa-academy.com/">Here</a>
-- More later on ...
+- StudyRoom <a href="https://studyroom.djebbesrabah.repl.co/">Here</a>
+<br> And much more...
 
-## Spoken Languages :
+## SPOKEN LANGUAGES :
 - English.
 - Arabic.
 - French.
 
-## Finally I am :
-- Solution-oriented and creative thinker.
-- Highly proficient python programmer.
-- Motivated, Enthusiastic team player.
-- Excels in attention to detail.
-- Creative analytical thinking.
-- Quick Learner.
+## PROFESSIONAL SKILLS :
+- Expertise in Backend Technologies and Frameworks.
+- Knowledge of Front-end Languages and Frameworks.
+- Familiarity with Database Management Systems and Web Hosting Platforms.
+- Excellent Communication Skills with a Focus on Team-building and Customer Relations.
+- Outstanding Organizational, Multitasking, and Problem-solving Abilities.
 
-## Contact Me :
+## CONTACT ME :
 #### Email : 
 ```sh
 Rabahwork@gmail.com
