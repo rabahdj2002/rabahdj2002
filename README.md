@@ -42,6 +42,7 @@ I have worked on a lot of projects like:
 - My Portfolio <a href="http://rabahdjebbes.me/" target="_balnk">Here</a>
 - Creativa Academy <a href="https://creativa-academy.com/" target="_balnk">Here</a>
 - StudyRoom <a href="https://studyroom.djebbesrabah.repl.co/" target="_balnk">Here</a>
+- KeepNews <a href="https://keepnews.djebbesrabah.repl.co/" target="_balnk">Here</a>
 <br> And much more...
 
 ## SPOKEN LANGUAGES :
