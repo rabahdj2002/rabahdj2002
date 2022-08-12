@@ -23,7 +23,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## ABOUT ME
-As a Python/Django Backend Developer, I have 3 years of experience in working on writing and testing code, debugging programs, and integrating applications with third-party web services as well as creating, maintaining, testing, and debugging the entire back end.
+As a Python/Django Backend Developer, I have 4 years of experience in working on writing and testing code, debugging programs, and integrating applications with third-party web services as well as creating, maintaining, testing, and debugging the entire backend.
 
 Contributing to my team's successes and quickly grasping new concepts and technologies are two of my biggest strengths.
 
