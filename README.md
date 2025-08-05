@@ -39,10 +39,10 @@ AWARDS AND CERTIFICATION
 
 ## WORK EXPERIENCE :
 I have worked on a lot of projects like:
-- My Portfolio <a href="https://rabahdj2002.github.io/" target="_balnk">Here</a>
-- Creativa Academy <a href="https://creativa-academy.com/" target="_balnk">Here</a>
-- StudyRoom <a href="https://studyrooms.pythonanywhere.com/" target="_balnk">Here</a>
-- KeepNews <a href="https://keepnews.pythonanywhere.com/" target="_balnk">Here</a>
+- My Portfolio <a href="https://rabahdj2002.github.io/" target="_blank">Here</a>
+- SubForum 2.0 <a href="https://subforum.pythonanywhere.com/" target="_blank">Here</a>
+- StudyRoom <a href="https://studyrooms.pythonanywhere.com/" target="_blank">Here</a>
+- KeepNews 2.0 <a href="https://keepnews.pythonanywhere.com/" target="_blank">Here</a>
 <br> And much more...
 
 ## SPOKEN LANGUAGES :
