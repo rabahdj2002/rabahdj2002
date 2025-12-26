@@ -5,7 +5,7 @@
 
   **Automation & Control Engineering Master's Student**
   <br>
-  *Embedded Systems • Robotics • AI Control • Healthcare Devices*
+  *Embedded Systems • Robotics • PLC/SCADA • AI-Driven Healthcare*
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rabahdjebbes/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=github)](https://rabahdj2002.github.io/)
@@ -18,49 +18,55 @@
 
 ### 🚀 About Me
 
-I am a **Master's student in Automation & Control Engineering** at the University of Sétif, finalizing my thesis on **Sensor-Embedded Diabetic Shoes**. My focus is on the intersection of healthcare and hardware, using **STM32**, **Sensor Fusion**, and **AI-enhanced control** to solve real-world problems.
+I am a **Master's student in Automation & Control Engineering** at the **University of Constantine 1**, specializing in the convergence of hardware and software. My passion lies in building "Smart Systems"—bridging the gap between raw sensor data and intelligent decision-making.
 
-I possess a unique hybrid background: **5+ years of Python/Django backend experience** now applied to **Embedded Systems**. This allows me to not only program the microcontroller but also build the full-stack data pipelines that visualize and analyze the sensor data.
+I possess a hybrid technical background:
+* **Engineering Core:** Deep understanding of Control Theory, Robotics, PLC/SCADA systems, and Signal Processing.
+* **Developer Core:** Proficiency in Python, C++, and Full-Stack Web Development, allowing me to build end-to-end solutions (from the sensor to the web dashboard).
 
-* **Current Focus:** Real-time gait analysis using Kalman Filters & PID.
-* **Looking For:** Thesis collaborations, R&D roles in Healthcare Robotics, or Embedded Systems Engineering.
+Currently, I am researching **sensor fusion algorithms** for wearable medical devices to prevent diabetic amputations.
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-| **Firmware & Embedded** | **Hardware & Sensors** | **Control & Simulation** | **Software Foundation** |
+| **Control & Hardware** | **Embedded & Low Level** | **Software & Data** | **Industrial & Tools** |
 | :--- | :--- | :--- | :--- |
-| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) | ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) | ![Matlab](https://img.shields.io/badge/MATLAB-e16737?style=flat&logo=mathworks&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-000?style=flat&logo=freertos&logoColor=white) | **IMU (MPU6050)** | **PID Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![MicroPython](https://img.shields.io/badge/MicroPython-2B3A42?style=flat&logo=python&logoColor=white) | **BLE / FSR** | **Kalman Filter** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
+| ![Matlab](https://img.shields.io/badge/MATLAB-e16737?style=flat&logo=mathworks&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![PLC](https://img.shields.io/badge/PLC-Siemens-009999?style=flat) |
+| ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | ![SCADA](https://img.shields.io/badge/SCADA-WinCC-orange?style=flat) |
+| ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) | ![Assembly](https://img.shields.io/badge/Assembly-ASM-red?style=flat) | ![OpenCV](https://img.shields.io/badge/Image_Processing-OpenCV-5C3EE8?style=flat&logo=opencv) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Sensor Fusion** | ![VHDL](https://img.shields.io/badge/FPGA-VHDL-green?style=flat) | ![SQLite](https://img.shields.io/badge/Data-SQLite-003B57?style=flat&logo=sqlite) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
 
-### 🔬 Featured Projects (Hardware & Control)
+### 🔬 Engineering Research & Hardware Projects
 
-#### ⭐ [Master's Thesis] Smart Diabetic Shoes
-*Developing a wearable medical device to detect gait abnormalities and prevent diabetic foot ulcers.*
-* **Core Tech:** STM32F4, MPU6050 (IMU), FSR Pressure Sensors (x8), BLE 4.2.
-* **Algorithms:** **Kalman Filter** for sensor fusion + **PID** for stability analysis.
-* **Impact:** Achieved **95% accuracy** in gait abnormality detection with a **50m wireless range** and **72h battery life**.
-* [View Repository](#) • [Watch Demo](#)
+#### ⭐ [Master's Thesis] Smart Diabetic Shoes *A wearable medical system designed to prevent diabetic foot ulcers (which cause 80% of amputations) through real-time gait analysis.*
+* **The Problem:** Diabetic neuropathy causes loss of feeling; patients don't feel ulcers forming.
+* **The Solution:** A sensor-embedded shoe connecting to a mobile app for 24/7 monitoring.
+* **Tech Stack:** 16 FSR Sensors (Pressure hotspots), 4 IMUs (Gait/Limping detection), STM32.
+* **Key Algorithms:** Gait Balance analysis & Stability tracking to spot compensation patterns.
+
+#### 👷 [Bachelor's Project] Project HALO: Smart Safety Helmet *An IoT-enabled hard hat for construction safety, achieving **96.7% accuracy** in fall detection.*
+* **Hardware:** ESP32 Microcontroller, MPU6050 (6-axis Gyro/Accel), GPS (NEO-6M), Gas Sensors (MQ135).
+* **Features:**
+    * **Fall Detection:** Custom algorithm analyzing acceleration thresholds ($Amp \le 2g$ drop followed by $>12g$ impact).
+    * **Env-Monitor:** Real-time tracking of toxic gas, temperature, and humidity.
+    * **IoT Dashboard:** Live data streaming via WiFi to a central safety unit (Blynk).
+* [View Repository](#)
 
 #### 🤖 Self-Balancing Robot
-*A two-wheeled inverted pendulum robot demonstrating real-time control theory application.*
-* **Core Tech:** STM32, DC Motors with Encoders.
-* **Control:** Implemented **Complementary Filter** for angle estimation and **Cascade PID** for motor control.
-* **Performance:** Achieved stable balancing for 30+ seconds under disturbance.
-* [View Repository](#) • [Watch Demo](#)
+*implementation of classical control theory on physical hardware.*
+* **Tech:** STM32, DC Motors, Encoders.
+* **Control:** Implemented **Complementary Filters** for sensor noise reduction and **Cascade PID** loops for stability.
 
 ---
 
-### 💻 Software & Automation Projects
+### 💻 Software Development Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **ZRexpress Tracker** | Automated tracker for 135K+ orders. Normalizes phone numbers via BLE logic and detects duplicates. | `Python` `SQLite` `WhatsApp API` |
+| **ZRexpress Tracker** | Automated tracker for 135K+ orders. Normalizes phone numbers and detects duplicates. | `Python` `SQLite` `WhatsApp API` |
 | **SubForum 2.0** | A student submission platform with robust moderation tools. | `Django` `PostgreSQL` |
 | **KeepNews 2.0** | Aggregator tracking Russia-Ukraine conflict news in real-time. | `Python` `Scraping` |
 
@@ -68,9 +74,10 @@ I possess a unique hybrid background: **5+ years of Python/Django backend experi
 
 ### 🎓 Education
 
-* **Master's in Automation & Control Engineering** | *University of Sétif, Algeria* (2025)
-    * *Thesis:* Sensor-Embedded Diabetic Shoes
-* **Bachelor's in Control Engineering** | *University of Constantine, Algeria*
+* **Master's in Automation & Control Engineering** | *University of Constantine 1* (2025)
+    * *Focus:* Advanced Control, Robotics, SCADA, Image Processing.
+* **Bachelor's in Control Engineering** | [cite_start]*University of Constantine 1* [cite: 7]
+    * [cite_start]*Graduation Project:* "Project HALO" - Smart Hard Hat[cite: 17].
 
 ---
 
@@ -89,5 +96,5 @@ I possess a unique hybrid background: **5+ years of Python/Django backend experi
 </p>
 
 <p align="left">
-  📍 <i>Based in Sétif, Algeria</i>
+  📍 <i>Based in Constantine, Algeria</i>
 </p>
