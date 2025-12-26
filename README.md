@@ -68,7 +68,6 @@ Currently, I am researching **sensor fusion algorithms** for wearable medical de
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **ZRexpress Tracker** | Automated tracker for 135K+ orders. Normalizes phone numbers via BLE logic and detects duplicates. | `Python` `SQLite` `WhatsApp API` |
 | **SubForum 2.0** | A feature-rich forum platform with threaded discussions and user moderation tools. | `Django` `PostgreSQL` |
 | **KeepNews 2.0** | Automated news aggregation platform tracking Russia-Ukraine conflict news in real-time. | `Python` `Scraping` |
 
