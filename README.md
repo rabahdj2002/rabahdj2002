@@ -2,10 +2,8 @@
     <a href="https://www.linkedin.com/in/rabahdjebbes/">Linkedin</a>
     ·
     <a href="https://rabahdj2002.github.io/">Portfolio</a>
- </p>
+</p>
 
-
-<!-- https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo-e1588009010920.png ->
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -13,60 +11,29 @@
   <h3 align="center">Rabah Djebbes</h3>
 
   <p align="center">
-    Python/Django Developer
-    <br />
+    <strong>Automation & Control Engineering Master's Student</strong><br>
+    Embedded Systems • Robotics • AI Control • Healthcare Devices<br>
     <a href="https://www.linkedin.com/in/rabahdjebbes/"><strong>Go To Linkedin »</strong></a>
     <br />
     <br />
+  </p>
 </div>
 
-
 <!-- ABOUT THE PROJECT -->
-## ABOUT ME
-As a Python/Django Backend Developer, I have 5 years of experience in working on writing and testing code, debugging programs, and integrating applications with third-party web services as well as creating, maintaining, testing, and debugging the entire backend.
+## 🚀 ABOUT ME
+Master's student in **Automation & Control Engineering** specializing in **embedded systems**, **sensor fusion**, and **AI-enhanced control systems** for healthcare applications. 
 
-Contributing to my team's successes and quickly grasping new concepts and technologies are two of my biggest strengths.
+Currently developing **sensor-embedded diabetic shoes** with STM32, BLE, and Kalman+PID fusion (thesis project). Experienced in robotics (self-balancing robots), real-time control, and hardware-software integration.
 
-I excel at critical thinking and problem solving while being eager to learn new stuff.
+**Transitioning from Python/Django backend → Embedded Systems Engineering** with 5+ years software foundation.
 
-## AWARDS AND CERTIFICATION :
-AWARDS AND CERTIFICATION
-- Developing Applications with SQL, Databases, and Django     -       IBM
-- DevOps and Build Automation with Python     -       Learn Quest
-- Crash Course on Python      -       Google
-- Introduction to Data Science in Python      -       University of Michigan
-- Certificate of Language Ability     -       Emmersion
+## 🎓 EDUCATION
+**Master's in Automation & Control Engineering**  
+University of Sétif, Algeria (2025)  
+**Thesis**: Sensor-Embedded Diabetic Shoes (STM32 + IMU + FSR + BLE)
 
-## WORK EXPERIENCE :
-I have worked on a lot of projects like:
-- My Portfolio <a href="https://rabahdj2002.github.io/" target="_blank">Here</a>
-- SubForum 2.0 <a href="https://subforum.pythonanywhere.com/" target="_blank">Here</a>
-- StudyRoom <a href="https://studyrooms.pythonanywhere.com/" target="_blank">Here</a>
-- KeepNews 2.0 <a href="https://keepnews.pythonanywhere.com/" target="_blank">Here</a>
-<br> And much more...
+**Bachelor's in Control Engineering**  
+University of Constantine, Algeria
 
-## SPOKEN LANGUAGES :
-- English.
-- Arabic.
-- French.
-
-## PROFESSIONAL SKILLS :
-- Expertise in Backend Technologies and Frameworks.
-- Knowledge of Front-end Languages and Frameworks.
-- Familiarity with Database Management Systems and Web Hosting Platforms.
-- Excellent Communication Skills with a Focus on Team-building and Customer Relations.
-- Outstanding Organizational, Multitasking, and Problem-solving Abilities.
-
-## CONTACT ME :
-#### Email : 
-```sh
-Rabahwork@gmail.com
-```
-#### Phone : 
-```sh
-+213 558 605 921
-```
-#### Portfolio : 
-```sh
-https://rabahdj2002.github.io/
-```
+## 🔬 KEY PROJECTS
+### Diabetic Shoes (Master's Thesis) ⭐
