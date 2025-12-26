@@ -39,26 +39,28 @@ Currently, I am researching **sensor fusion algorithms** for wearable medical de
 
 ---
 
-### 🔬 Engineering Research & Hardware Projects
+### 🔬 Engineering Research & Hardware
 
-#### ⭐ [Master's Thesis] Smart Diabetic Shoes *A wearable medical system designed to prevent diabetic foot ulcers (which cause 80% of amputations) through real-time gait analysis.*
-* **The Problem:** Diabetic neuropathy causes loss of feeling; patients don't feel ulcers forming.
+#### ⭐ [Master's Thesis] Smart Diabetic Shoes 
+*A wearable medical system designed to prevent diabetic foot ulcers (which cause 80% of amputations) through real-time gait analysis.*
 * **The Solution:** A sensor-embedded shoe connecting to a mobile app for 24/7 monitoring.
 * **Tech Stack:** 16 FSR Sensors (Pressure hotspots), 4 IMUs (Gait/Limping detection), STM32.
 * **Key Algorithms:** Gait Balance analysis & Stability tracking to spot compensation patterns.
 
-#### 👷 [Bachelor's Project] Project HALO: Smart Safety Helmet *An IoT-enabled hard hat for construction safety, achieving **96.7% accuracy** in fall detection.*
-* **Hardware:** ESP32 Microcontroller, MPU6050 (6-axis Gyro/Accel), GPS (NEO-6M), Gas Sensors (MQ135).
-* **Features:**
-    * **Fall Detection:** Custom algorithm analyzing acceleration thresholds ($Amp \le 2g$ drop followed by $>12g$ impact).
-    * **Env-Monitor:** Real-time tracking of toxic gas, temperature, and humidity.
-    * **IoT Dashboard:** Live data streaming via WiFi to a central safety unit (Blynk).
-* [View Repository](#)
+#### 👷 [Bachelor's Project] Project HALO: Smart Safety Helmet 
+*An IoT-enabled hard hat for construction safety, achieving **96.7% accuracy** in fall detection.*
+* **Tech Stack:** ESP32, MPU6050 (6-axis Gyro/Accel), GPS (NEO-6M), MQ135 Gas Sensor.
+* **Impact:** Implemented a custom fall detection algorithm ($Amp \le 2g$ drop followed by $>12g$ impact) and real-time dashboard monitoring via Blynk.
+* 📄 **[Read Full Thesis (PDF)](https://rabahdj2002.github.io/Memoire.pdf)**
 
-#### 🤖 Self-Balancing Robot
-*implementation of classical control theory on physical hardware.*
-* **Tech:** STM32, DC Motors, Encoders.
-* **Control:** Implemented **Complementary Filters** for sensor noise reduction and **Cascade PID** loops for stability.
+---
+
+### 👁️ Computer Vision & Robotics
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **Gaze Tracking** | Real-time eye tracking system that estimates where a user is looking on the screen using facial landmarks. | `OpenCV` `Dlib` `Python` |
+| **DH Kinematics Calculator** | A calculator for **Denavit-Hartenberg** parameters to compute the Forward Kinematics of robotic arms. Essential for robot path planning. | `Python` `Robotics` `NumPy` |
 
 ---
 
@@ -66,9 +68,9 @@ Currently, I am researching **sensor fusion algorithms** for wearable medical de
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **ZRexpress Tracker** | Automated tracker for 135K+ orders. Normalizes phone numbers and detects duplicates. | `Python` `SQLite` `WhatsApp API` |
-| **SubForum 2.0** | A student submission platform with robust moderation tools. | `Django` `PostgreSQL` |
-| **KeepNews 2.0** | Aggregator tracking Russia-Ukraine conflict news in real-time. | `Python` `Scraping` |
+| **ZRexpress Tracker** | Automated tracker for 135K+ orders. Normalizes phone numbers via BLE logic and detects duplicates. | `Python` `SQLite` `WhatsApp API` |
+| **SubForum 2.0** | A feature-rich forum platform with threaded discussions and user moderation tools. | `Django` `PostgreSQL` |
+| **KeepNews 2.0** | Automated news aggregation platform tracking Russia-Ukraine conflict news in real-time. | `Python` `Scraping` |
 
 ---
 
@@ -76,8 +78,8 @@ Currently, I am researching **sensor fusion algorithms** for wearable medical de
 
 * **Master's in Automation & Control Engineering** | *University of Constantine 1* (2025)
     * *Focus:* Advanced Control, Robotics, SCADA, Image Processing.
-* **Bachelor's in Control Engineering** | [cite_start]*University of Constantine 1* [cite: 7]
-    * [cite_start]*Graduation Project:* "Project HALO" - Smart Hard Hat[cite: 17].
+* **Bachelor's in Control Engineering** | *University of Constantine 1*
+    * *Graduation Project:* "Project HALO" - Smart Hard Hat.
 
 ---
 
