@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="pic.png?v=2" alt="Rabah Djebbes" width="150" height="150" style="border-radius: 50%;">
+  <img src="pic.png" alt="Rabah Djebbes" width="150" height="150" style="border-radius: 50%;">
 
   # Rabah Djebbes
 
